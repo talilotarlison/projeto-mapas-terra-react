@@ -1,0 +1,93 @@
+[
+    {
+        "cep": "12345-678",
+        "nome": "Local A",
+        "endereco": "Rua Principal, 123",
+        "latitude": -23.456,
+        "longitude": -46.789
+    },
+    {
+        "cep": "98765-432",
+        "nome": "Local B",
+        "endereco": "Avenida Secundária, 456",
+        "latitude": 40.7128,
+        "longitude": -74.0060
+    },
+    {
+        "cep": "54321-876",
+        "nome": "Local C",
+        "endereco": "Praça Central, 789",
+        "latitude": 51.5074,
+        "longitude": -0.1278
+    },
+    {
+        "cep": "12345-678",
+        "nome": "Local A",
+        "endereco": "Rua Principal, 123",
+        "latitude": -23.456,
+        "longitude": -46.789
+    },
+    {
+        "cep": "98765-432",
+        "nome": "Local B",
+        "endereco": "Avenida Secundária, 456",
+        "latitude": 40.7128,
+        "longitude": -74.0060
+    },
+    {
+        "cep": "54321-876",
+        "nome": "Local C",
+        "endereco": "Praça Central, 789",
+        "latitude": 51.5074,
+        "longitude": -0.1278
+    },
+    {
+        "cep": "13579-246",
+        "nome": "Local D",
+        "endereco": "Rua Tranquila, 987",
+        "latitude": -33.8688,
+        "longitude": 151.2093
+    },
+    {
+        "cep": "86420-159",
+        "nome": "Local E",
+        "endereco": "Avenida Movimentada, 321",
+        "latitude": 34.0522,
+        "longitude": -118.2437
+    },
+    {
+        "cep": "24680-357",
+        "nome": "Local F",
+        "endereco": "Praça Animada, 654",
+        "latitude": 48.8566,
+        "longitude": 2.3522
+    },
+    {
+        "cep": "97531-482",
+        "nome": "Local G",
+        "endereco": "Rua Histórica, 789",
+        "latitude": 52.5200,
+        "longitude": 13.4050
+    },
+    {
+        "cep": "75310-864",
+        "nome": "Local H",
+        "endereco": "Avenida Moderna, 987",
+        "latitude": 35.6895,
+        "longitude": 139.6917
+    },
+    {
+        "cep": "46825-913",
+        "nome": "Local I",
+        "endereco": "Praça Tranquila, 654",
+        "latitude": -22.9068,
+        "longitude": -43.1729
+    },
+    {
+        "cep": "35791-024",
+        "nome": "Local J",
+        "endereco": "Rua Pitoresca, 321",
+        "latitude": -34.8941,
+        "longitude": -56.0675
+    }
+]
